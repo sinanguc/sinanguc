@@ -4,10 +4,10 @@
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![C# Language](https://img.shields.io/badge/-C%23%20Language-purple?style=flat&logo=c%20sharp)&nbsp;
+![Rust Lang](https://img.shields.io/badge/-Rust%20Lang-black?style=flat&logo=rust&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java%20Language-purple?style=flat&logo=Java)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=white)&nbsp;
-![Rust Lang](https://img.shields.io/badge/-Rust%20Lang-black?style=flat&logo=rust&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
