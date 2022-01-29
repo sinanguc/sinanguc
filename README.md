@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanguc&label=Profile%20views&color=0e75b6&style=flat" alt="sinanguc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanguc" alt="sinanguc" /></a> </p>
@@ -19,9 +21,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bsinanguc](https://www.linkedin.com/in/bsinanguc)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I'm playing guitar**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
