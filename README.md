@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bsinanguc](https://www.linkedin.com/in/bsinanguc)
 
-- ⚡ Fun fact **I'm playing guitar**
+- ⚡ Fun fact **I can play a guitar**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
